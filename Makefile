@@ -5,8 +5,7 @@ CC := gcc
 SRCS := \
 	fsm_init.c \
 	fsm_handler.c \
-	fsm_getter.c \
-	fsm_error.c
+	fsm_getter.c
 
 SRC_DIR := srcs/
 OBJ_DIR := objs/
